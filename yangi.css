@@ -1,0 +1,165 @@
+header{
+    background-image: url(./xira\ chim.png);
+    width: 1500px;
+    height: 600px;
+}
+.bir{
+    margin-top: 58px;
+    margin-left: 530px;
+    color: white;
+}
+.input1{
+    width: 300px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left: 630px;
+    margin-top: 40px;
+}
+.uch{
+   
+    width: 963px;
+    height: 243px;
+    color: white;
+    text-align: center;
+    margin-left: 310px;
+font-size: 60px;
+margin-top: -80px;
+}
+.input2{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+margin-left: 700px;
+color: aquamarine;
+margin-top: 40px;
+text-align: center;
+}
+.besh{
+    width: 384px;
+    height: 106px;
+    color: darkgray;
+    font-size: 45px;
+    margin-left: 550px;
+    margin-top: 50px;
+    text-align: center;
+}
+.gul{
+    width: ;
+    margin: 0 auto;
+    margin: 20px;
+}
+.katta{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 80px; 
+}
+.katta2{
+    display: flex;
+margin-left: 100px;
+margin-top: -60px;
+}
+.yozuv1{
+    width: 300px;
+    margin: 52px;
+}
+.input3{
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+margin-left: 650px;
+margin-top: 10px;
+text-align: center;
+border: 1px solid blueviolet;
+}
+.about{
+    font-size: 40px;
+    color: darkgray;
+    margin-left: 550px;
+
+}
+.katta3{
+    width: 1500px;
+    height: 600px;
+    background-image: url(./chim.png);
+    display: flex;
+}
+.aa{
+    width: 200px;
+    height: 500px;
+    color: white;
+    text-align: center;
+    margin: 80px;
+}
+.yozuv4{
+    margin-left: 270px;
+}
+.test{
+    font-size: 40px;
+    color: darkgray;
+    margin-left: 530px;
+}
+.doc{
+    border: 1px solid green;
+    margin: 30px;
+    display: flex;
+    height: 200px;
+    border-radius: 20px;
+    width: 600px;
+}
+.katta5{
+    display: flex;
+    margin-left: 50px;
+}
+.docc{
+    width: 360px;
+    height: 150px;
+    margin-left: 30px;
+
+}
+.ogabek{
+    margin-top: -100px;
+    width: 80px;
+    margin-left: 10px;
+}
+.cont{
+    font-size: 43px;
+    color: darkgray;
+    margin-left: 510px;
+    
+}
+.katta6{
+    display: flex;
+    margin-top: 30px;
+}
+.input5{
+    background-color: rgb(5, 162, 109);
+    width: 500px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 250px;
+}
+.rrr{
+    margin-left: 150px;
+}
+.uuu{
+    width: 150px;
+    height: 50px;
+    border: 2px solid green;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 420px;
+}
+.iii{
+    width: 1500px;
+    height: 70px;
+    margin-top: 30px;
+    background-color: darkgreen;
+}
+body{
+    margin: 0 auto;
+}
+
+
